@@ -31,11 +31,14 @@ namespace HelloWPFApp
             {
                 MessageBox.Show("Hello");
             }
-            else
+            else if (RadioButton2.IsChecked == true)
             {
-                RadioButton2.IsChecked = true;
                 MessageBox.Show("Goodbye");
             }
+            else 
+            {
+                MessageBox.Show("No greeting selected");
+            }    
         }
     }
 }

@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\obj\Release\
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\
 HelloWPFApp
 none
 false
-TRACE
+DEBUG;TRACE
 C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\App.xaml
 1631417184
 
-9-1108437632
+5673220491
 12-1401562060
 Greetings.xaml;
 

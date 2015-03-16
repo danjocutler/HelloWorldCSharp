@@ -1,0 +1,12 @@
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe.config
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\Greetings.baml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\Greetings.g.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\App.g.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.cache
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.g.resources
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.Properties.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.pdb
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.exe
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.pdb
